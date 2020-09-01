@@ -1,0 +1,17 @@
+**A.S**
+
+###Codigo de Estado HTTP
+
+*Usado pelo servidor para avisaar o cleinte
+sore o estado da operação solicitada.
+
+> 1xx - Informativo (100,101,102,...)
+
+> 2xx - Sucesso (200,201,202,...)
+
+> 3xx - Redirecionamento (300,301,302,...)
+
+> 4xx - Erro do Cliente (400,401,402,...)
+		[ex: Error 404, pagina que nao existe
+
+> 5xx - Erro do Servidor (500,501,502,...)
