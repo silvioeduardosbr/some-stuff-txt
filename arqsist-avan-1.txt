@@ -1,0 +1,32 @@
+***Arquitetura de Sistemas - avançado
+
+##Conceitos de integração e mensageria
+
+-> Arquitetura em mensageria - Mensager Broker
+
+	##PRÓS##
+
+	-desacoplamento/isolmento;
+	-facil de implementar novas features;
+	-comunicação assincrona: nao exige que a solução fique esperando (paralelo);
+	-simples ecalabilidade;
+	-broadcasting: compartilhamento de msgs para todos os serviços interessados;
+	-event source: fila de eventos que juntos vão determinar um estado;
+
+	##CONTRAS##
+	
+	-ponto fraco: se o menssage broker parar de funcionar demorona a arquitetura;
+	-dificil monitoramento: serviços assincronos é complicado acompanhar um fluxo e debugar;
+
+->Gerenciamento de Erros
+	
+	-Dead Letter Queue (filas de re-envios);
+	-monitoramento de serviços: rastrear os pontos da msg (debugar);
+	-rastreamento de fluxo;
+
+->Inconsistencia de dados
+	-Informação linkada a outra, precisa de um dado para uma operação e nao tem. A msg vai para a dead letter queue para ser reprocessada futuramente se tiver o dado necessario;
+	-rastreamento de fluxo: uso de track id's para ter controle do fluxo e dos logs;
+
+
+
