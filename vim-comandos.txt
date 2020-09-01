@@ -1,0 +1,43 @@
+VIM - comandos
+
+**Use o comando 'vim arquivo.formato' para abrir o vim no modo comando. Ou indique o endereço no comando: 'vim pasta1/pasta2/arquivo.formto'
+
+**Dentro do vim use 'i' para entrar no modo escrita onde é possivel escrever dentro do arquivo.
+
+**Apos escrever no arquivo, use ESC para voltar ao modo de comandos.
+
+**No como de comandos, segue:
+
+   :q - sair do arquivo (quit)
+   :w - salvar o arquivo (write)
+   :wq - salvar e sair
+   :q! - forçar saida
+	
+   gg - ir para o inicio do arquivo
+   G - ir para o fim do arquivo
+   w/b - pular por palavras, dependendo da direção
+   xG - saltar pra linha x do arquivo (ex: 32G)
+   
+   i - iniciar a escrita pela esquerda
+   a - iniciar a escrita pela  direita
+   o - iniciar a escrita na proxima linha
+   O - iniciar a escrita na linha anterior
+   
+   dd - apaga toda a linha   
+
+   Y - copia uma linha completa
+   S - recorta uma linha completa
+   yw - copia a palavra atual
+   dw - recorta a palavra atual
+   V(direção) - seleciona toda a linha
+   v(direção) - seleciona por caracteres
+    #após selecionar:
+      y - copia
+      d - recorta
+   p - cola
+
+
+*Silvio E. Sales 
+   
+
+

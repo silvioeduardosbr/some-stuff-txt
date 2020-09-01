@@ -1,0 +1,69 @@
+***SCRUM - Metodologias Àgeis - Papéis do time
+
+*No scrum não há uma divisão hierárquica*
+
+	#Product Owner (PO)-> Representante de negocios
+		>Define as funcionalidades para o time;
+		>Entender a demanda e extrair o maior valor possível;
+		>Visao do que será desenvolvido;
+		>Visão das necessidades a serem supridas;
+		>Saber o público que vai utilizar a solução;
+		>Objetivos
+	
+	#SCRUM Master (SM)-> Garante o uso correto do SCRUM na equipe
+		>Não é empregado do time;
+		>Facilitador; 
+		>Auxilia o PO;
+		>Ajuda na disseminação e na manutenção da cultura ágil.
+
+	#Time de Desevolvimento:
+		>Time que precisa ter habilidades suficientes para desenvolver, testar, criar 		       e desenhar soluções. 
+
+----------------------------------------------------------------------------------------------
+
+***SCRUM - Cerimonias do SCRUM
+
+-> Sprint - principal evento do SCRUM.
+	# É o tempo que leva a primeira parte do projeto (max. 30 dias)
+
+ 	#Time Box - tempo (máximo) de uma cerimonia no SCRUM
+
+-> Planejamento(Planning): 
+	
+	#Define o Backlog;
+		>É a parte principal da sprint e do produto, sem ela não há sprint.
+		>Épicos 
+			#Incremento sem muito detalhamento que ajudam no desenvolvimento.
+	
+		>Estoria
+			# Detalhamento dos épicos;
+			# Um épico se divide em varias estórias que o definem;
+
+	#Evento que vem antes da sprint. Define o que fazer e como fazer (max. 8hrs)
+		>4h para o P.O. explicar o projeto para o time;
+		>4h para o time resolver como desenvolver;
+
+-> Daily meeting:
+	
+	#Evento diário para o time, mas todos podem participar (=~15min);
+	#TO DO/DOING/DONE;
+	#Feito de pé;
+	
+->Review:
+	
+	#Ao final o time apresenta ao final dos 30 dias o que foi feito ao P.O. (~4h)
+
+->Reisao do time:
+	
+	#Ver o que foi aprendido e melhorar o que precisa;
+
+->Release planning
+
+	#Lançamento oficial de uma nova versão do produto
+
+
+
+
+
+
+

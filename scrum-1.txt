@@ -1,0 +1,19 @@
+***SCRUM - Metodologias Ágeis
+
+#Conceitos básicos:
+
+-> O projeto feito de modo tradicional provoca muitos custos e burocracia. Com a metodologia agil, o projeto é feito de forma mais interatica e em partes pequenas por vez.
+
+	#Adaptativo;
+	#Cliente participa durante o processo;
+	#Mudança constante baseada em feedbacks;
+
+-> Agildade que facilita a descoberta de erros, evitando que a verificação e validação só seja realizada ao fim do projeto.
+	
+	#Capacidade de responder rapidamente às mudanças;
+
+-> o SCRUM é um framework de gerenciamento de projetos ágeis.
+	
+	#Transparência
+	#Adaptação
+	#Inspeção

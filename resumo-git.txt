@@ -1,0 +1,59 @@
+***Comandos basicos Git
+
+#Primeiramente é preciso criar uma pasta para hospedar a pasta git.
+
+	mkdir nome_pasta
+
+#Em seguida entre na pasta:
+
+	cd nome_pasta
+
+#Pronto, agora é crie uma pasta do tipo git nesse repositorio que sera onde ficará os arquivos do projeto:
+
+	git init
+
+###Agora, use os comandos para interagir com a pasta:
+
+#touch arquivo.formato - cria um arquivo
+
+#git add arquivo.formato - dar permissao ao git manipular esse arquivo.
+
+#git add . - da permissao ao git manipular todos os arquivos
+
+#git commit -m 'mensagem' - salva os arquivos adcionados
+
+#git status - mostra como estao os arquivos
+
+#git log - mostra os commits
+
+###Para conectar com o repositorio remoto é preciso:
+
+	git remote add origin https://(...)
+
+##Após sincronizar com o repositório remoto previamente criado, é só usar os comandos de interação com o repositório remoto:
+
+#git push -u origin master - upa os arquivos commitados do branch master para o github
+
+#apos sincronizado pode usar somente
+
+	git push
+
+que ja irá subir os commits
+
+#git remote rm origin - usado para remover uma origem ja criada
+
+#git pull url - puxa arquivos do github
+
+###As branches sao ramos de informações onde se pode encapsular melhor o desenvolvimento do projeto. A master é a branch principal, mas podem ser criadas outras branches para implementar algo novo sem comprometer a master. E depois de feito é possivel fundir as branches com o comando 'merge'.
+
+#git branch b1 - cria uma branch b1
+
+#git checkout b1 - vai para a branch b1, se ela nao existe, cria mas ainda apontando pra branch atual
+
+#git checkout -b b1 - cria a branch b1 e aponta pra ela
+
+#git branch -D b1 - deleta a branch b1
+
+#git push origin b1 - upa a branch b1 no github
+
+xD	

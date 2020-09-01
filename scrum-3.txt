@@ -1,0 +1,13 @@
+***Conceitos - Final
+
+-> Um projeto composto por um conjunto de Épicos.
+-> Épicos são compostos por um conjunto de Estórias.
+-> Estórias são compostas por um conjunto de Tarefas(tasks).
+
+->Stakeholder/cliente
+	
+	#É uma pessoa ou grupo de pessoas que legitima as ações de uma organização;
+	#Pessoas que estão relacionadas a uma determinada ação ou projeto;
+
+->Ritos
+	#Refinamentos aconteem antes da planning, reunião não oficial do SCRUM.
