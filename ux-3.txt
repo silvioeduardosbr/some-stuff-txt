@@ -1,0 +1,21 @@
+##Componentes da interface do usuario
+
+	->Iconografia
+		-icones simples;
+		-combinar com palavras (ajuda);
+		-usuario precisa de familiaridade com os icones;
+		-ultilizar espaçamento em torno do icone;
+		-consistecia, elementos comuns;
+		-a repetiçao ajuda os usuarios a ligar o icone a uma ação;
+		
+	->Imagens
+		-uma imagem pode passar mais valor que um texto;
+		-mundo dinamico;
+		-não é decoração;
+		-usuario reage mais rapido;
+		-precisa ter contexto com o produto;
+		-as imagem falam sobre o produto, sem poluir e exagerar;
+
+	->Manual da marca
+		-contem todas as informações da marca;
+		-ajuda a manter as propriedades visuais e os padrões;

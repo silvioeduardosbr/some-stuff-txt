@@ -1,0 +1,40 @@
+***UI/UX - Resonsividade e experiencia do usuário
+
+#Introdução UX/UI - Fundamentos
+
+	->Briefing:
+		
+		-Entender o projeto
+		-Objetivo do projeto e o porquê do trabalho
+
+	->Imersão:
+		-Conhecer o problema, público, stakeholders e as demandas;
+		-Estratégia, historia e reclamações;
+		-Se inserir no projeto imersivamente para entender;
+		-Unpack: ouvir varias informações e trocar conhecimentos de acordo com as informações;
+	
+	->Estrutura (Design Digital)
+		-Como posicionar os objetos no layout;
+		-Desenho;
+	
+	->Conteúdo
+		-Jornada do usuário;
+		-Facilitar a usabilidade;
+	
+	->Hierarquia Informativa
+		-O que é mais importante e a ordem que isso aparece;
+
+	->Funcionalidade
+		-Como interagir com o usuário;
+
+
+	->Grid:
+		-Ajuda a determinar o fluxo da leitura;
+		- harmonia/simplicidade do layout;
+		-Alinhamento e qualidade visual;
+
+	->Luzes/Sombra ; Consistencia e padrão<-
+
+		-facilita na comunicação com usuário;
+	
+		

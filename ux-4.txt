@@ -1,0 +1,19 @@
+##Processos do mundo real
+
+->Responsividade
+	-existe mais celular que habitante;
+	-mobile commerce (m-commerce);
+	-fidelização e conforto do usuario;
+	-google resize facilita a vizualização;
+	
+->Acessibilidade
+	-conhecer o usuario que irá utilizar a solução;
+	-construir um serviço que sirva para todos;
+	-pesquisa;
+
+->Prototipagem
+	-minimizar custos;
+	-testagem;
+	-atualizar modelos de negocios;
+	-alta ou baixa fidelidade;
+	-skatch, adobe xd, invision;

@@ -1,0 +1,34 @@
+##Parte 2 - Cores
+
+	->Cores quentes
+		-ativam desejos
+
+	->cores primárias
+		-azul, laranja, cinza;
+		-fria, quente, neutra;
+
+	->cores secundarias
+		-verde,amarelo,vermelho(...);
+		-significado;
+
+	->gradiente/degrade
+		-voltou mais o uso em 2017;
+		-estimulam o usuario;
+		-dinamismo e movimento;
+
+##Tipografias
+	-serifadas: prolongamentos no fim das letras;
+
+	-sem serifas: mais dinamicas e modernas, sem prolongamentos no final;
+
+	-cursivas: caligraficas; classico, luxuoso;
+
+	-decorativas/fantasia: inusitadas e pouco praticas, chamar atenção;
+
+	-tamanho: padrao 16px para o browser, usuario fica confortavel;
+
+	-peso: grossura da fonte: thin, extra light, light, normal ... black;
+
+
+
+
